@@ -6,3 +6,12 @@ height: 5px;
     background-color: black;
     height: 30px;
 }
+.red-line{
+    background-color: red;
+    height: 2px;
+}
+.card{
+    background-color: #ffd233!important;
+    border: none!important;
+    border-radius: 0px;
+}
